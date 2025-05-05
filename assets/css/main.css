@@ -1,0 +1,9 @@
+@import url(header.css);
+@import url(homePage.css);
+@import url(reset.css);
+@import url(root.css);
+
+body{
+    background-color: #1E1E1E;
+    font-family: "Buda", serif;
+}
